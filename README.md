@@ -5,11 +5,6 @@ One of the most interesting (if dubious) literary theories is that Shakespeare c
 ### Technologies
 * Pandas, Numpy, Scikit-learn, NLTK, XGBoost, Keras, Gensim, pyLDAvis, pprint, string, Regex, os, shutil, random, pickle, wordcloud, seaborn, matplotlib, pillow,
 
-## Data Process
-I have outlined my data process below. The content of steps 2-5 on this process chart are separated into Notebooks 1-4.
-
-![Data Process](/Images/DataProcess.png)
-
 ## Notebook 1: Data Cleaning
 My data consists of 39 Shakespeare plays and plays written by other Elizabethan-era playwrights, all of which were downloaded as .txt files directly from Project Gutenberg. I am using the main historical body of 37 texts plus Two Noble Kinsmen and Edward III, which are typically partially attributed to Shakespeare. The other playwrights were chosen based on their writing contemporaneously to Shakespeare during the reign of Queen Elizabeth I and King James. 
 
