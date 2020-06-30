@@ -40,7 +40,7 @@ I used both TF-IDF and Word Embeddings with Random Forest, Naive Bayes, Support 
 
 I conducted unsupervised modeling by generating topics from my data. I initially generated 7 topics which had a coherence score (c_v) of .298, which did not improve by making changes to the number of topics. However, it is interesting to explore the pyLDAvis interactive chart, which enables us to view the distance of topics to one another, and to view the contributing tokens. 
 
-![Topic Modeling pyLDAvis](/Images/Topic_Modeling.png)
+![Topic Modeling pyLDAvis](/Images/Topic_Modeling.PNG)
 
 ## Conclusion 
 
