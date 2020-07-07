@@ -3,7 +3,7 @@
 One of the most interesting (if dubious) literary theories is that Shakespeare could not have written his plays. In this notebook I will use several modeling techniques to develop a model that can predict if text was or was not written by Shakespeare. 
 
 ### Technologies
-* Pandas, Numpy, Scikit-learn, NLTK, XGBoost, Keras, Gensim, pyLDAvis, pprint, string, Regex, os, shutil, random, pickle, wordcloud, seaborn, matplotlib, pillow,
+* Pandas, Numpy, Scikit-learn, NLTK, XGBoost, Keras, Gensim, pyLDAvis, pprint, string, Regex, os, shutil, random, pickle, wordcloud, seaborn, matplotlib, pillow
 
 ## Data Process
 I have outlined my data process below. The content of steps 2-5 on this process chart are separated into Notebooks 1-4.
